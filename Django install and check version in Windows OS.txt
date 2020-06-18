@@ -1,0 +1,8 @@
+Install django:
+
+Open CMD > execute the command: pip install django.
+
+Check Django version:
+
+Open CMD > execute the command: django-admin --version 
+

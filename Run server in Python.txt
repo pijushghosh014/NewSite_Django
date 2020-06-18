@@ -1,0 +1,10 @@
+Open CMD > find source folder (ie. cd desktop > cd newsite > cd mysite >) > execute the comment: python manage.py runserver 
+
+
+Starting development server at http://127.0.0.1:8000/
+
+paste the IP on webbrowser and go. 
+
+To stop server : press ctrl+c
+
+
